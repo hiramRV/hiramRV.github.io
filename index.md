@@ -1,5 +1,6 @@
-## Welcome to this Github Page   
+## Welcome to my Github Page   
 
-Algo de contenido por acá 
+### Acerca de
 
-### Mardkdown
+### Proyectos
+- Twitter bot. 
