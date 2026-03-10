@@ -1,10 +1,19 @@
 theme: minima
-title: HiramRV Site
-description: Personal site for blog posts and project tracking.
+title: The Personal Website
+
+# Silence Sass deprecation warnings from Minima theme (Dart Sass 3.0 migration)
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+    - global-builtin
+    - color-functions
+    - slash-div
+description: Minimal site. For now. Don't expect anything fancy or overengineered.
 lang: en
-email: stevenrv97@gmail.com
-github_username: hiramRV
-linkedin_username: stevenrv
+email: Stevenrv97@gmail.com
+github_username: HiramRV
+linkedin_username: Stevenrv
 header_pages:
   - index.md
   - blog.md
