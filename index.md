@@ -13,3 +13,7 @@ This site is my simple space to share what I build, learn, and want.
 - [Blog](/blog/): Notes, and general stuff. 
 - [Programming Projects](/programming-projects/): Software or technical projects.
 - [Other Projects](/other-projects/): Non-programming work, ideas, and side projects.
+
+<!--
+This is the landing page
+-->

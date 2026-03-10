@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## About Me
+## Who am I? 
 
 I'll tell you all about me in the future
 

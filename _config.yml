@@ -2,9 +2,9 @@ theme: minima
 title: HiramRV Site
 description: Personal site for blog posts and project tracking.
 lang: en
-email: your.email@example.com
-github_username: your-github-username
-linkedin_username: your-linkedin-username
+email: stevenrv97@gmail.com
+github_username: hiramRV
+linkedin_username: stevenrv
 header_pages:
   - index.md
   - blog.md
