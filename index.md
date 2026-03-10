@@ -1,7 +1,15 @@
-## Welcome to my Github Page   
+---
+layout: page
+title: Home
+permalink: /
+---
 
-### Me
+## Purpose
 
-### Proyectos
-- Twitter bot: A simple bot that perform backpropagation that solve a puzzle (n queens on the board) and used this data to generate graphs [Link](https://x.com/bot_rv).
-- 
+This site is my simple space to share what I build, learn, and want. 
+
+## What You Can Find
+
+- [Blog](/blog/): Notes, and general stuff. 
+- [Programming Projects](/programming-projects/): Software or technical projects.
+- [Other Projects](/other-projects/): Non-programming work, ideas, and side projects.
