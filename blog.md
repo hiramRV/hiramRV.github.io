@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-This page lists all published posts.
+List of all published posts.
 
 {% if site.posts.size > 0 %}
 <ul class="post-list">
