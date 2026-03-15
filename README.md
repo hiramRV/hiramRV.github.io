@@ -1,4 +1,4 @@
-# Perosnal Pages Site
+# Personal Pages Site
 
 Quick link to the page: [Link](https://hiramrv.github.io)
 
