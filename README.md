@@ -1,4 +1,4 @@
-# Personal Blog Site
+# Personal Site
 
 Quick link to the page: [Link](https://hiramrv.github.io)
 
