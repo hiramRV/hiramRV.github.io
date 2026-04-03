@@ -9,7 +9,7 @@ sass:
     - global-builtin
     - color-functions
     - slash-div
-description: Minimal site. Don't expect anything fancy or over-engineered.
+description: Minimal static site? Looks like it. 
 lang: en
 email: Stevenrv97@gmail.com
 github_username: HiramRV
