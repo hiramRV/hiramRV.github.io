@@ -7,3 +7,15 @@
 .site-footer {
     background-color: #e3e2e2;
   }
+
+/* Two-column layout: only posts that wrap content in .echoes-columns */
+.post-content .echoes-columns {
+  column-count: 2;
+  column-gap: 2rem;
+}
+
+@media (max-width: 600px) {
+  .post-content .echoes-columns {
+    column-count: 1;
+  }
+}
