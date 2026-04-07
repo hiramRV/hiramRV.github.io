@@ -1,0 +1,11 @@
+# Workers Static Assets: Jekyll output in _site
+# Build runs in sh on Linux (Cloudflare) — do not prefix with npx (bundle is Ruby, not npm).
+# Change `name` if your Cloudflare Worker uses a different name.
+name = "testpage"
+compatibility_date = "2026-04-07"
+
+[build]
+command = "bundle exec jekyll build"
+
+[assets]
+directory = "_site"

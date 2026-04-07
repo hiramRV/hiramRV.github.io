@@ -4,3 +4,7 @@ _site/
 .sass-cache/
 .bundle/
 vendor/bundle/
+
+# Wrangler local state (do not ignore wrangler.toml)
+.wrangler/
+/node_modules
