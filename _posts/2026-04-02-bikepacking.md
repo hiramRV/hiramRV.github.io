@@ -6,7 +6,7 @@ categories: [general]
 tags: [Blog]
 ---
 
-## Bikepacking 
+## 1,100 kms
 
 A couple of years ago, I can sadly say that I never heard about the idea of traveling around with a bike. I can recall some encounters with people that where doing it but it was not something that made me curious, on the slightest. Now, I can say that it's one of the things that left a profound impact on my soul. So, how was it?
 
@@ -18,4 +18,4 @@ In retrospect, I also didn't know that I would meet some of the most amazing and
 
 I'll write about the kilometers, the depression, and the crisis that came after. But today, I just want to remember all of them. 
 
-<p style="opacity: 0.55; font-size: 0.9em; margin-top: 2em;">[Last modified on 2026-04-14]</p>
+<p style="opacity: 0.55; font-size: 0.9em; margin-top: 2em;">[Last modified on 2026-04-16]</p>
