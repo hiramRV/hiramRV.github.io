@@ -17,7 +17,7 @@ This site is my simple space to share what I build, learn, and want.
 
 ## Quick Links
 
-- [The last blog post]({% post_url 2026-04-24-every-day%})
+- [The last blog post]({% post_url 2026-05-05-rest%})
 - [My most popular entry (so far)]({% post_url 2026-04-02-bikepacking %})
 <!--
 This is the landing page
