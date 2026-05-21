@@ -17,8 +17,9 @@ This site is my simple space to share what I build, learn, and want.
 
 ## Quick Links
 
-- [The last blog post]({% post_url 2026-05-11-turista_to_stranger%})
-- [My most popular entry (so far)]({% post_url 2026-04-02-bikepacking %})
+- [The last blog post]({% post_url 2026-05-17-seasons%})
+- [Bikepacking memories]({% post_url 2026-04-02-bikepacking%})
+- [Just a love letter]({% post_url 2026-03-28-love-letter%})
 <!--
 This is the landing page
 -->
