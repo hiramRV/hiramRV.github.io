@@ -18,4 +18,5 @@ In retrospect, I also didn't know that I would meet some of the most amazing and
 
 I'll write about the kilometers, the depression, and the crisis that came after. But today, I just want to remember all of them. 
 
-<p style="opacity: 0.55; font-size: 0.9em; margin-top: 2em;">[Last modified on 2026-04-16]</p>
+[Next bike packing post]({% post_url 2026-06-08-bike-to-colone%})
+<p style="opacity: 0.55; font-size: 0.9em; margin-top: 2em;">[Last modified on 2026-06-10]</p>
