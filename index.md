@@ -14,12 +14,9 @@ This site is my simple space to share what I build, learn, and want.
 - [Programming Projects](/programming-projects/): Software or technical projects.
 - [Other Projects](/other-projects/): Non-programming work, ideas, and side projects.
 
-
 ## Quick Links
 
 - [The last blog post]({% post_url 2026-06-28-momento%})
 - [Bikepacking memories]({% post_url 2026-04-02-bikepacking%})
 - [Just a love letter]({% post_url 2026-03-28-love-letter%})
-<!--
-This is the landing page
--->
+- [Movies!]({%post_url 2026-07-07-movies-2026-pt1%})  
