@@ -18,5 +18,4 @@ This site is my simple space to share what I build, learn, and want.
 
 - [The last blog post]({% post_url 2026-09-13-mind%})
 - [Bikepacking memories]({% post_url 2026-04-02-bikepacking%})
-- [Just a love letter]({% post_url 2026-03-28-love-letter%})
-- [Movies!]({%post_url 2026-07-07-movies-2026-pt1%})  
+- [Movies!]({%post_url 2026-10-25-movies-2026-pt2%})  
