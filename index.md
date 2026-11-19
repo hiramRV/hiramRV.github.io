@@ -16,6 +16,6 @@ This site is my simple space to share what I build, learn, and want.
 
 ## Quick Links
 
-- [The last blog post]({% post_url 2026-09-13-mind%})
+- [The last blog post]({% post_url 2026-11-19-future%})
 - [Bikepacking memories]({% post_url 2026-04-02-bikepacking%})
 - [Movies!]({%post_url 2026-10-25-movies-2026-pt2%})  
